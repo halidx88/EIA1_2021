@@ -69,8 +69,12 @@ header a:hover{
 }
 
 #insta{
-  size: inherit;
+  size: 10px;
   background-position: center right;
-  margin-bottom:30px;
+  margin-bottom:12px;
   text-align: center left;
+}
+
+#halid{
+  background:#e8491d;
 }
