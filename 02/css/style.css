@@ -62,5 +62,15 @@ header a:hover{
 
 #showcase{
   min-height:400px;
- background:url('../img/showcase.png') no-repeat;
+  background:url('../img/showcase.jpg') no-repeat;
+  background-position: center right;
+  margin-bottom:30px;
+  text-align: center left;
+}
+
+#insta{
+  min-height:400px;
+  background-position: center right;
+  margin-bottom:30px;
+  text-align: center left;
 }
