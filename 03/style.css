@@ -4,6 +4,10 @@ body{
     margin: 0;
     background-color: #f4f4f4;
   }
+
+  main{
+    font: 15px/1.5 Arial, helvetica, sans-serif;
+  }
   
   .container{
     width: 80%;
