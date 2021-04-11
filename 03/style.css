@@ -5,14 +5,18 @@ body{
     background-color: #f4f4f4;
   }
 
-  main{
+main{
     font: 15px/1.5 Arial, helvetica, sans-serif;
   }
-  
-  .container{
+
+.container{
     width: 80%;
     margin: auto;
     overflow: hidden;
+}
+  
+#bg{
+    background:url('../03/img/bg.png') no-repeat;
   }
   
   ul{
@@ -63,3 +67,46 @@ body{
     color: #ccc;
     font-weight: bold;
   }
+
+  
+.my-form{
+	padding:20px; }
+
+.form-group{
+	padding: 15px;
+}
+
+.my-form label{
+	display:block;
+}
+
+.myform input [type="text"], .my-form textarea{
+	padding: 8px;
+	width: 100%;
+}
+
+
+
+.button input [type:-moz-submit-invalid]{
+	background-color: #333;
+	color: #fff;
+	padding: 10px 15px;
+	border:none;
+}
+
+
+header a:hover{
+  color: #ccc;
+  font-weight: bold;
+}
+
+#bg:hover{
+  color: #ccc;
+  font-weight: bold;
+}
+
+.contact{
+  background-color: black;
+  color: bisque;
+}
+

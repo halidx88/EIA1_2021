@@ -74,3 +74,19 @@ header a:hover{
   margin-bottom:12px;
   text-align: center left;
 }
+
+#bg{
+  background:url('../03/img/bg.png') no-repeat;
+}
+
+#bg:hover{
+  color: #ccc;
+  font-weight: bold;
+}
+
+
+.contact{
+  background-color: black;
+  color: bisque;
+}
+
