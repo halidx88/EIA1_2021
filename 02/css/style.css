@@ -69,6 +69,7 @@ header a:hover{
 }
 
 #insta{
+  max-height: 200px;
   size: 10px;
   background-position: center right;
   margin-bottom:12px;
