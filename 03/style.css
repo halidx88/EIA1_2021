@@ -5,25 +5,30 @@ body{
     background-color: #f4f4f4;
   }
 
+  
 main{
     font: 15px/1.5 Arial, helvetica, sans-serif;
   }
+
 
 .container{
     width: 80%;
     margin: auto;
     overflow: hidden;
 }
+
   
 #bg{
     background:url('../03/img/bg.png') no-repeat;
   }
+
   
   ul{
     margin: 0;
     padding: 0;
   }
   
+
   header{
     background-color: #35424a;
     color: #fff;
@@ -32,59 +37,68 @@ main{
     border-bottom: #e8491d 3px solid;
   }
   
+
   header a{
     color: #fff;
     text-decoration: none;
     text-transform: uppercase;
     font-size: 16px;
   }
+
   
   header li{
     float: left;
     display: inline;
     padding: 0 20px 0 20px;
   }
+
   
   header#branding{
     float:left;
   }
   
+
   header #branding h1{
     margin: 0;
   }
+
   
   header nav{
     float: right;
     margin-top: 10px;
   }
   
+
   header .highlight, header .current a{
     color: #e8491d;
     font-weight: bold;
   }
   
+
   header a:hover{
     color: #ccc;
     font-weight: bold;
   }
-
+  
   
 .my-form{
 	padding:20px; }
+
 
 .form-group{
 	padding: 15px;
 }
 
+
 .my-form label{
 	display:block;
 }
+
 
 .myform input [type="text"], .my-form textarea{
 	padding: 8px;
 	width: 100%;
 }
-
 
 
 .button input{
@@ -95,16 +109,17 @@ main{
 }
 
 
-
 header a:hover{
   color: #ccc;
   font-weight: bold;
 }
 
+
 #bg:hover{
   color: #ccc;
   font-weight: bold;
 }
+
 
 .contact{
   background-color: black;
