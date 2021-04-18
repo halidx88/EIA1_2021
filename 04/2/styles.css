@@ -2,6 +2,7 @@
     background-image: url(../2/hintergrund.png);
     background-size: auto;
     padding-bottom: 500px;
+    bottom: 600px;
 }
 .wrapper {
     background-image: url(../2/orange.png);
@@ -9,6 +10,7 @@
     position: absolute;
     top: 500px;
     left: 650px;
+    bottom: 600px;
     transform: translate(-50%, -50%);
 }
 
@@ -48,7 +50,7 @@
 .Muschel img[alt="Muschel offen"] {
     position: absolute;
     left: 0;
-    opacity: 0%;
+    opacity: -10%;
 }
 
 
