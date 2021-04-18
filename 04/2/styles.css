@@ -16,17 +16,7 @@
     margin: auto;
     text-align: center;
 }
-.wrapper .text h1 {
-    color: white;
-    font-family: 'Times New Roman', Times, sans-serif;
-    font-size: 30px;
-    margin-bottom: 40px;
-}
-.wrapper .text p {
-    color: white;
-    font-family: 'Times New Roman', Times, sans-serif;
-    font-size: 20px;
-}
+
 .shells {
     position: absolute;
     bottom: 20%;
