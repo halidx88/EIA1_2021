@@ -11,7 +11,8 @@
     left: 650px;
     transform: translate(-50%, -50%);
 }
-.wrapper .text {
+
+.text {
     padding: 30px;
     margin: auto;
     text-align: center;
