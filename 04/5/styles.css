@@ -1,0 +1,32 @@
+.background {
+    background-image: url(../5/bg.png);
+    background-repeat: repeat;
+    background-size: auto;
+}
+.wrapper {
+    background-image: url(../5/wrapperbg.png);
+    width: 600px; height: 400px;
+    position: absolute;
+    top: 380px;
+    left: 600px;
+    transform: translate(-55%, -55%);
+  }
+
+.wrapper .text {
+    padding: 30px;
+}
+.wrapper .text h1 {
+    color: white;
+    left: 100px;
+    margin-left: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin-bottom: 40px;
+    width: 500px;
+}
+.wrapper .text p {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    columns: 3;
+}
