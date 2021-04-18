@@ -1,7 +1,7 @@
 .background {
     background-image: url(../2/hintergrund.png);
-    background-repeat: repeat;
     background-size: auto;
+    padding-bottom: 500px;
 }
 .wrapper {
     background-image: url(../2/orange.png);
@@ -13,38 +13,39 @@
 }
 
 .text {
+    color: lawngreen;
     padding: 30px;
     margin: auto;
     text-align: center;
 }
 
-.shells {
+.muschel {
     position: absolute;
     bottom: 20%;
-    left: 50%;
+    left: 300px;
     transform: translate(-50%);
 
 }
-.single_shell {
+.dieMuschel {
     display: inline;
     position: relative;
     padding-right: 25px;
 
 }
-.single_shell:hover img[alt="Muschel"] {
+.dieMuschel:hover img[alt="Muschel"] {
     opacity: 0%;
 
 }
-.single_shell img[alt="Muschel"], .single_shell img[alt="Muschel offen"] {
-    transition-duration: 0.3s;
+.dieMuschel img[alt="Muschel"], .dieMuschel img[alt="Muschel offen"] {
+    transition-duration: 2.7s;
 
 }
-.single_shell img[alt="Muschel offen"] {
+.dieMuschel img[alt="Muschel offen"] {
     position: absolute;
     left: 0;
     opacity: 0%;
 }
 
-.single_shell:hover img[alt="Muschel offen"] {
+.dieMuschel:hover img[alt="Muschel offen"] {
     opacity: 100%;
 }
