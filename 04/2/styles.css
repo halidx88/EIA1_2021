@@ -20,32 +20,39 @@
 }
 
 .muschel {
-    position: absolute;
     bottom: 20%;
-    left: 300px;
-    transform: translate(-50%);
-
+    left: 800px;
 }
-.dieMuschel {
+
+
+.Muschel {
     display: inline;
     position: relative;
-    padding-right: 25px;
-
+    padding-right: 0px;
+    left: 175px;
+    top: 50px;
 }
-.dieMuschel:hover img[alt="Muschel"] {
+
+
+.Muschel:hover img[alt="Muschel"] {
     opacity: 0%;
 
 }
-.dieMuschel img[alt="Muschel"], .dieMuschel img[alt="Muschel offen"] {
-    transition-duration: 2.7s;
 
+
+.Muschel img[alt="Muschel"], .Muschel img[alt="Muschel offen"] {
+    transition-duration: 2.3s;
 }
-.dieMuschel img[alt="Muschel offen"] {
+
+
+.Muschel img[alt="Muschel offen"] {
     position: absolute;
     left: 0;
     opacity: 0%;
 }
 
-.dieMuschel:hover img[alt="Muschel offen"] {
-    opacity: 100%;
+
+.Muschel:hover img[alt="Muschel offen"] {
+    opacity: 88%;
 }
+
