@@ -1,4 +1,4 @@
-.Box {
+.fix {
     position: relative;
     top: 200px;
     left: 400px;
@@ -12,12 +12,11 @@
     z-index: 5;
 }
 
-.yt_video {
+.video {
     position: absolute;
-    bottom: 70px;
-    left: 42px;
-    width: 520px;
+    bottom: 80px;
+    left: 50px;
+    width: 680px;
     height: 280px;
-    z-index: 0;
 
 }
