@@ -1,5 +1,5 @@
 body{
-    background-image: url(../01/bg.png);    
+    background-image: url(../1/bg.png);    
 }
 .wrapperbg{
     display: auto;
@@ -36,11 +36,11 @@ body{
 }
 #shell{
     margin-top: -2000px;
-    margin-left: 2000px;
+    margin-left: 2200px;
     position: fixed;
     position: absolute;
 }
 #penguin{
     margin-top: 8px;
-    margin-left: 300px;
+    margin-left: 323px;
 }
