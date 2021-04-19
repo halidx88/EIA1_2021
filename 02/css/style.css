@@ -75,6 +75,13 @@ header a:hover{
   text-align: center ;
 }
 
+.form{
+  position: absolute;
+  left: auto;
+  width: 800px;
+  div style: center;
+  text-align: center;
+}
 
 #showcase{
   min-height:400px;
