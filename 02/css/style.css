@@ -107,6 +107,12 @@ header a:hover{
   display: flex;
 }
 
+.facebook:hover{
+  background-color: chocolate;
+    opacity: 1;
+
+}
+
 #bg{
   background:url('../03/img/bg.png') no-repeat;
 }
