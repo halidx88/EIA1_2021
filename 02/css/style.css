@@ -9,6 +9,7 @@ body{
   width: 80%;
   margin: auto;
   overflow: hidden;
+  margin-left: 250px;
 }
 
 ul{
@@ -97,6 +98,13 @@ header a:hover{
   background-position: center right;
   margin-bottom:12px;
   text-align: center left;
+  margin-left: 50px;
+}
+
+
+#face{
+  margin-left: 56px;
+  display: flex;
 }
 
 #bg{
