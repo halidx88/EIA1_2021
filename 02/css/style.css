@@ -61,14 +61,19 @@ header a:hover{
 }
 
 
-
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 800px;
 }
 
+.text{
+  font-family: 'Times New Roman', Times, serif;
+  padding-left: 0;
+  width: 800px;
+  text-align: center ;
+}
 
 
 #showcase{
