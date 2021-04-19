@@ -10,6 +10,12 @@ main{
     font: 15px/1.5 Arial, helvetica, sans-serif;
   }
 
+.panna{
+  padding-left: 0px;
+ left: 800px;
+ margin-left: 800px;
+}
+
 
 .container{
     width: 80%;
