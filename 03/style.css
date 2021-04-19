@@ -34,6 +34,13 @@ main{
     padding: 0;
   }
   
+  
+.contact{
+  background-color: black;
+  color: bisque;
+}
+
+
 
   header{
     background-color: #35424a;
@@ -80,6 +87,13 @@ main{
     font-weight: bold;
   }
   
+ 
+  
+.facebook:hover{
+  background-color: chocolate;
+    opacity: 1;
+}
+
 
   header a:hover{
     color: #ccc;
@@ -124,11 +138,5 @@ header a:hover{
 #bg:hover{
   color: #ccc;
   font-weight: bold;
-}
-
-
-.contact{
-  background-color: black;
-  color: bisque;
 }
 
