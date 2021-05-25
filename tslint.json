@@ -10,12 +10,13 @@
          ],
          "interface-name":[
              true,
-             "ignore-same-line"
-         ],
+             "always-prefix"
+            ],
          "member-access":[
-             true,
+             true
          ]
-         "max-classes-per-file": false,
+         [
+         "max-classes-per-file": false,]
          "no-empty": false,
          "object-literal-sort-keys": false,
         "no-unused-ecpression": true,
@@ -42,12 +43,10 @@
                     "arrays": "always",
                     "functions": "ignore",
                     "typeLiterals": "ignore"
-        
                 }
             }
         ],
         "max-line-length": false,
-
      },
      "ruleDirectory": [],
      "linterOptions": {
